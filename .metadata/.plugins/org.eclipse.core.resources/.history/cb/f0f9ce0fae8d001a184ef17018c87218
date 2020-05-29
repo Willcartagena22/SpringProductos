@@ -1,0 +1,5 @@
+INSERT INTO `usuarios` (username,password,enabled,name,email) VALUES('cwill','123456',1,'Will Cartagena', 'calvarado@gmail.com');
+INSERT INTO `usuarios` (username,password,enabled,name,email) VALUES('cwill2','123456',1,'Will Cartagena2', 'calvarado2@gmail.com');
+INSERT INTO `usuarios_roles` (usuario_id,role_id) VALUES(1,1);
+INSERT INTO `usuarios_roles` (usuario_id,role_id) VALUES(2,2);
+INSERT INTO `usuarios_roles` (usuario_id,role_id) VALUES(2,1);

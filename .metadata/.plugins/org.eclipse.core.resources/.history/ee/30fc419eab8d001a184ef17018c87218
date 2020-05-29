@@ -1,0 +1,1 @@
+INSERT INTO `usuarios` (username,password,enabled,name,email) VALUES('cwill','123456',1,'Will Cartagena', 'calvaradogmail.com');

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;PreTiempoTranscurridoFilter.java&apos; to &apos;zuul-server-micro/src/main/java/com.cwac.app.filters&apos;&#x0D;&#x0A;- Original project: &apos;zuul-server-micro&apos;&#x0D;&#x0A;- Destination element: &apos;zuul-server-micro/src/main/java/com.cwac.app.filters&apos;&#x0D;&#x0A;- Original element: &apos;com.cwac.app.filters.PreTiempoTranscurridoFilter.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cwac.app.filters" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cwac.app.filters{PreTiempoTranscurridoFilter.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1588373733962" units="1" version="1.0"/>
+</session>
